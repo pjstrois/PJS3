@@ -1,0 +1,5 @@
+Se rappeler q'un sous titre c'est .vtt
+<video controls width="250" src="...."/>
+<track>default kind="captions" srclang="en" src="..."/>
+ ......
+</video>
