@@ -1,0 +1,8 @@
+.map-image path{
+	fill: #FFFFFF;
+	stroke: #3538D2;
+	stroke: 4px;
+}
+.map-image path:hover{
+	fill: #3538D2;
+}		
